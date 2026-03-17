@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Kraller;Susanne
+FN:Susanne Kraller
+ORG:Raiffeisenbank Wörthersee-Landskron-Gegendtal
+TITLE:Marketing
+TEL;TYPE=CELL:+43 664 1234567
+EMAIL:susanne.kraller@rb39390.at
+URL:https://www.rb39390.at
+ADR;TYPE=WORK:;;Landskron;;;Austria
+END:VCARD
